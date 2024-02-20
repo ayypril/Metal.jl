@@ -30,4 +30,7 @@ include("decomposition.jl")
 # matrix copy
 include("copy.jl")
 
+# solving linear equations
+include("solver.jl")
+
 end
